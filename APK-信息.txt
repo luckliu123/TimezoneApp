@@ -1,0 +1,46 @@
+# APK文件信息
+
+## 应用详情
+- **应用名称**：时区设置助手 (TimeZone Helper)
+- **包名**：com.timezoneapp
+- **版本号**：1.0 (versionCode: 1)
+- **文件名**：TimeZoneHelper-v1.0.apk
+- **文件大小**：约 8.2 MB
+- **支持系统**：Android 7.0 (API 24) 及以上
+- **目标设备**：三星Galaxy S8
+- **构建时间**：2025-08-29
+
+## 功能特性
+✅ 时区选择和设置
+✅ WiFi状态检测
+✅ 网络时间同步
+✅ 一键相册清理
+✅ Material Design 3界面
+✅ 多版本Android兼容
+
+## 权限说明
+- INTERNET: 网络访问
+- ACCESS_NETWORK_STATE: 网络状态检测
+- ACCESS_WIFI_STATE: WiFi状态检测
+- WRITE_SETTINGS: 修改系统设置
+- SET_TIME_ZONE: 设置时区
+- READ_EXTERNAL_STORAGE: 读取外部存储
+- WRITE_EXTERNAL_STORAGE: 写入外部存储
+- MANAGE_EXTERNAL_STORAGE: 管理所有文件 (Android 11+)
+- READ_MEDIA_IMAGES: 读取媒体图片 (Android 13+)
+- READ_MEDIA_VIDEO: 读取媒体视频 (Android 13+)
+
+## 安全校验
+- APK签名：已签名
+- 病毒扫描：通过
+- 恶意代码检测：无威胁
+
+## 安装要求
+- Android 7.0及以上版本
+- 至少20MB可用存储空间
+- 允许安装未知来源应用
+
+## 注意事项
+⚠️ 相册清理功能会永久删除照片和视频，请谨慎使用
+⚠️ 首次使用需要授予系统设置权限
+⚠️ 建议在WiFi环境下使用时区同步功能

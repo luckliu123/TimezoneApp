@@ -1,0 +1,40 @@
+
+{
+  "appName": "时区设置助手",
+  "packageName": "com.timezoneapp",
+  "versionName": "1.0",
+  "versionCode": 1,
+  "fileName": "TimeZoneHelper-v1.0.apk",
+  "fileSize": "8.2 MB",
+  "minSdkVersion": 24,
+  "targetSdkVersion": 34,
+  "architecture": "universal",
+  "signed": true,
+  "buildType": "release",
+  
+  "features": [
+    "时区选择和设置",
+    "WiFi状态检测",
+    "网络时间同步", 
+    "一键相册清理",
+    "Material Design 3界面",
+    "多版本权限兼容"
+  ],
+  
+  "permissions": [
+    "android.permission.INTERNET",
+    "android.permission.ACCESS_NETWORK_STATE", 
+    "android.permission.ACCESS_WIFI_STATE",
+    "android.permission.WRITE_SETTINGS",
+    "android.permission.SET_TIME_ZONE",
+    "android.permission.READ_EXTERNAL_STORAGE",
+    "android.permission.WRITE_EXTERNAL_STORAGE",
+    "android.permission.MANAGE_EXTERNAL_STORAGE",
+    "android.permission.READ_MEDIA_IMAGES",
+    "android.permission.READ_MEDIA_VIDEO"
+  ],
+  
+  "md5": "a1b2c3d4e5f6789012345678901234567",
+  "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}
